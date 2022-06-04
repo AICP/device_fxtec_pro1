@@ -23,7 +23,7 @@ import android.preference.PreferenceManager;
 
 import androidx.preference.PreferenceFragment;
 
-import org.lineageos.internal.util.FileUtils;
+import com.android.internal.util.aicp.FileUtils;
 import org.lineageos.settings.device.R;
 import org.lineageos.settings.device.widget.SeekBarPreference;
 

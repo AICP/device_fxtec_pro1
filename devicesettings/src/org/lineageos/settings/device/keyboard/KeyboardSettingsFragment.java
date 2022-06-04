@@ -28,7 +28,7 @@ import androidx.preference.ListPreference;
 import androidx.preference.PreferenceFragment;
 import androidx.preference.SwitchPreference;
 
-import org.lineageos.internal.util.FileUtils;
+import com.android.internal.util.aicp.FileUtils;
 import org.lineageos.settings.device.R;
 
 import java.io.File;

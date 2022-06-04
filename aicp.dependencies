@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "LineageOS/android_kernel_fxtec_msm8998",
+    "target_path": "kernel/fxtec/msm8998",
+    "branch": "lineage-18.1"
+  }
+]
